@@ -1508,51 +1508,51 @@
       }
     },
     {
-      "details_type": "Canteen Menu",
-      "content": {
-        "canteen_name": "श्री समर्थ कृपा कॅन्टीन (Shree Samarth Krupa Canteen)/(College Canteen)",
-        "menu": [
-          { "item": "चहा (Tea)", "price": "१० रु. (10 Rs.)" },
-          { "item": "चहा स्पे. (Special Tea)", "price": "१२ रु. (12 Rs.)" },
-          { "item": "कॉफी (Coffee)", "price": "१० रु. (10 Rs.)" },
-          { "item": "दूध (Milk)", "price": "२० रु. (20 Rs.)" },
-          { "item": "कांदेपोह (Onion Poha)", "price": "२० रु. (20 Rs.)" },
-          { "item": "इडली सांबर (Idli Sambar)", "price": "२५ रु. (25 Rs.)" },
-          { "item": "मेंदुवडा सांबर (Medu Vada Sambar)", "price": "३० रु. (30 Rs.)" },
-          { "item": "उत्पन्ना (Utthappa)", "price": "२५ रु. (25 Rs.)" },
-          { "item": "मिसळ पाव (Misal Pav)", "price": "३० रु. (30 Rs.)" },
-          { "item": "वडा उसळ पाव (Vada Usal Pav)", "price": "३० रु. (30 Rs.)" },
-          { "item": "शेव पोहे (Shev Poha)", "price": "२५ रु. (25 Rs.)" },
-          { "item": "मिसळ पोहे (Misal Poha)", "price": "३० रु. (30 Rs.)" },
-          { "item": "रस्सा पोहे (Rassa Poha)", "price": "२५ रु. (25 Rs.)" },
-          { "item": "वडापाव प्लेट (Vadapaav Plate)", "price": "२४ रु. (24 Rs.)" },
-          { "item": "समोसा प्लेट (Samosa Plate)", "price": "२४ रु. (24 Rs.)" },
-          { "item": "पावभाजी प्लेट (Pavbhaji Plate)", "price": "३० रु. (30 Rs.)" },
-          { "item": "पॅटीस प्लेट (Patties Plate)", "price": "२४ रु. (24 Rs.)" },
-          { "item": "कांदाभजी प्लेट (Kandabhaji Plate)", "price": "३० रु. (30 Rs.)" },
-          { "item": "बटाटा भजी प्लेट (Batata Bhaji Plate)", "price": "३० रु. (30 Rs.)" },
-          { "item": "मूग भजी प्लेट (Moong Bhaji Plate)", "price": "३० रु. (30 Rs.)" },
-          { "item": "शिरा (Shira)", "price": "३० रु. (30 Rs.)" },
-          { "item": "साबुदाणा खिचडी (Sabudana Khichdi)", "price": "३० रु. (30 Rs.)" },
-          { "item": "साबुदाणा वडा प्लेट (Sabudana Vada Plate)", "price": "३० रु. (30 Rs.)" },
-          { "item": "रवळ ढोकळा प्लेट (Raval Dhokla Plate)", "price": "३० रु. (30 Rs.)" },
-          { "item": "दाल वडा प्लेट (Dal Vada Plate)", "price": "३० रु. (30 Rs.)" },
-          { "item": "राईस प्लेट (Rice Plate)", "price": "६० रु. (60 Rs.)" },
-          { "item": "पुरण भाजा (Puran Bhaji)", "price": "३५ रु. (35 Rs.)" },
-          { "item": "पूरी भाजा (Puri Bhaji)", "price": "३५ रु. (35 Rs.)" },
-          { "item": "चपाती भाजा (Chapati Bhaji)", "price": "४० रु. (40 Rs.)" },
-          { "item": "जिरा राईस (Jeera Rice)", "price": "३० रु. (30 Rs.)" },
-          { "item": "दाल तडका (Dal Tadka)", "price": "३० रु. (30 Rs.)" },
-          { "item": "भाजी प्लेट (Bhaji Plate)", "price": "२५ रु. (25 Rs.)" },
-          { "item": "दही वटी (Dahi Vati)", "price": "२५ रु. (25 Rs.)" },
-          { "item": "दाल वटी (Dal Vati)", "price": "२० रु. (20 Rs.)" },
-          { "item": "पापड नग (Papad Nag)", "price": "०५ रु. (05 Rs.)" },
-          { "item": "ताक (Taak)", "price": "१५ रु. (15 Rs.)" },
-          { "item": "बिसलेरी (Bisleri)", "price": "१५ रु. (15 Rs.)" },
-          { "item": "कोल्ड्रिंक्स सर्व (Cold Drinks All)", "price": "15-30 Rs." }
-        ]
-      }
-    },
+  "details_type": "Canteen Menu",
+  "content": {
+    "canteen_name": "Shree Samarth Krupa Canteen (College Canteen)",
+    "menu": [
+      { "item": "Tea", "price": "10 Rs." },
+      { "item": "Special Tea", "price": "12 Rs." },
+      { "item": "Coffee", "price": "10 Rs." },
+      { "item": "Milk", "price": "20 Rs." },
+      { "item": "Onion Poha", "price": "20 Rs." },
+      { "item": "Idli Sambar", "price": "25 Rs." },
+      { "item": "Medu Vada Sambar", "price": "30 Rs." },
+      { "item": "Utthappa", "price": "25 Rs." },
+      { "item": "Misal Pav", "price": "30 Rs." },
+      { "item": "Vada Usal Pav", "price": "30 Rs." },
+      { "item": "Shev Poha", "price": "25 Rs." },
+      { "item": "Misal Poha", "price": "30 Rs." },
+      { "item": "Rassa Poha", "price": "25 Rs." },
+      { "item": "Vadapaav Plate", "price": "24 Rs." },
+      { "item": "Samosa Plate", "price": "24 Rs." },
+      { "item": "Pavbhaji Plate", "price": "30 Rs." },
+      { "item": "Patties Plate", "price": "24 Rs." },
+      { "item": "Kandabhaji Plate", "price": "30 Rs." },
+      { "item": "Batata Bhaji Plate", "price": "30 Rs." },
+      { "item": "Moong Bhaji Plate", "price": "30 Rs." },
+      { "item": "Shira", "price": "30 Rs." },
+      { "item": "Sabudana Khichdi", "price": "30 Rs." },
+      { "item": "Sabudana Vada Plate", "price": "30 Rs." },
+      { "item": "Raval Dhokla Plate", "price": "30 Rs." },
+      { "item": "Dal Vada Plate", "price": "30 Rs." },
+      { "item": "Rice Plate", "price": "60 Rs." },
+      { "item": "Puran Bhaji", "price": "35 Rs." },
+      { "item": "Puri Bhaji", "price": "35 Rs." },
+      { "item": "Chapati Bhaji", "price": "40 Rs." },
+      { "item": "Jeera Rice", "price": "30 Rs." },
+      { "item": "Dal Tadka", "price": "30 Rs." },
+      { "item": "Bhaji Plate", "price": "25 Rs." },
+      { "item": "Dahi Vati", "price": "25 Rs." },
+      { "item": "Dal Vati", "price": "20 Rs." },
+      { "item": "Papad Nag", "price": "05 Rs." },
+      { "item": "Taak", "price": "15 Rs." },
+      { "item": "Bisleri", "price": "15 Rs." },
+      { "item": "Cold Drinks All", "price": "15-30 Rs." }
+    ]
+  }
+},
     {
       "details_type": "Scholarship Documents",
       "content": {
@@ -2032,4 +2032,5 @@
       }
     }
   ]
+
 }
