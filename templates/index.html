@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>College Helpdesk Chatbot</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}" />
+  <style>
+    html {
+      scroll-behavior: smooth;
+    }
+    
+    body {
+      background-image: url("{{ url_for('static', filename='college_bg.jpg') }}");
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      height: 100vh;
+      overflow-y: auto;
+    }
+  </style>
+</head>
+<body>
+  
+  <div class="chat-toggle" id="chat-toggle">
+    
+<img src="{{ url_for('static', filename='bot_icon.png') }}" alt="Bot Icon">
+    <div class="notification-badge" id="notification-badge"></div>
+  </div>
+
+  <div class="chat-container" id="chat-container">
+    
+    <div class="chat-header">
+      <img src="{{ url_for('static', filename='bot.png') }}" alt="logo" class="header-logo">
+      <h2>ARMIET Helpdesk</h2>
+      <span class="chat-close" id="chat-close">✖</span>
+    </div>
+    
+    <div id="chat-box" class="chat-box">
+      </div>
+
+    <div class="quick-replies" id="quick-replies-container">
+      <div class="qr-row">
+        <button onclick="sendQuickReply('What are the admission requirements?')">📑 Admission</button>
+        <button onclick="sendQuickReply('What are the course fees?')">💰 Fees</button>
+        <button onclick="sendQuickReply('List of available courses?')">📘 Courses</button>
+        <button id="more-replies-btn" class="qr-toggle">▼</button>
+      </div>
+      
+      <div class="qr-row hidden-replies" id="hidden-replies-row">
+        <button onclick="sendQuickReply('What is the college address?')">📍 Location</button>
+        <button onclick="sendQuickReply('What are the college timings?')">🕒 Timings</button>
+        <button onclick="sendQuickReply('Show me the document list for admission.')">📋 Documents</button>
+        <button onclick="sendQuickReply('What is the contact number?')">📞 Contact</button>
+      </div>
+    </div>
+
+
+    <div class="input-area">
+      <input type="text" id="user-input" placeholder="Ask something..." />
+      <button id="send-btn">Send</button>
+    </div>
+  </div>
+
+  <script>
+    // --- DOM Elements ---
+    const chatContainer = document.getElementById("chat-container");
+    const chatToggle = document.getElementById("chat-toggle");
+    const chatClose = document.getElementById("chat-close");
+    const chatBox = document.getElementById("chat-box");
+    const userInput = document.getElementById("user-input");
+    const sendBtn = document.getElementById("send-btn");
+    const notificationBadge = document.getElementById("notification-badge");
+    const quickRepliesContainer = document.getElementById("quick-replies-container");
+    const moreRepliesBtn = document.getElementById("more-replies-btn");
+
+    // --- State ---
+    let isChatOpen = false;
+    let unreadMessages = 0; // Tracks unread messages (Problem 2)
+
+    // --- Helper Functions ---
+    function getCurrentTime() {
+      const now = new Date();
+      return now.toLocaleTimeString([], { hour: "2-digit", minute: "2-digit" });
+    }
+
+    function smoothScrollToBottom() {
+      chatBox.scrollTo({
+        top: chatBox.scrollHeight,
+        behavior: "smooth"
+      });
+    }
+
+    // --- Notification Badge Update (Problem 2) ---
+    function updateNotificationBadge() {
+      if (unreadMessages > 0) {
+        notificationBadge.innerText = unreadMessages;
+        notificationBadge.classList.add('show');
+      } else {
+        notificationBadge.classList.remove('show');
+      }
+    }
+
+    // --- Send chat status to backend ---
+    function sendChatStatusToBackend(status) {
+        fetch("/update_chat_status", {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify({ chat_open: status }),
+        }).catch(error => console.error("Error updating chat status:", error));
+    }
+
+
+    // --- Toggling Chat Window ---
+    function toggleChat() {
+      isChatOpen = !isChatOpen;
+      chatContainer.classList.toggle("show");
+
+      if (isChatOpen) {
+        unreadMessages = 0; // Reset unread messages when chat is opened
+        updateNotificationBadge();
+        userInput.focus();
+        smoothScrollToBottom();
+        sendChatStatusToBackend(true); // Inform backend chat is open
+      } else {
+        sendChatStatusToBackend(false); // Inform backend chat is closed
+      }
+    }
+
+    chatToggle.addEventListener("click", toggleChat);
+    chatClose.addEventListener("click", toggleChat);
+
+    // --- Appending Messages ---
+    function appendMessage(sender, message, withTyping = false) {
+      const messageDiv = document.createElement("div");
+      messageDiv.classList.add("message", sender);
+
+      const icon = document.createElement("img");
+      icon.src = sender === "user"
+        ? "{{ url_for('static', filename='user.png') }}"
+        : "{{ url_for('static', filename='bot.png') }}";
+      icon.classList.add("icon");
+
+      const text = document.createElement("div");
+      text.classList.add("text");
+
+      const timestamp = document.createElement("div");
+      timestamp.classList.add("timestamp");
+      timestamp.innerText = getCurrentTime();
+
+      if (withTyping) {
+        text.classList.add("thinking"); 
+        text.innerHTML = "Thinking..."; 
+      } else {
+        text.innerHTML = message; 
+        text.appendChild(timestamp);
+      }
+
+      messageDiv.appendChild(icon);
+      messageDiv.appendChild(text);
+      chatBox.appendChild(messageDiv);
+      smoothScrollToBottom();
+    }
+
+    // --- "UPDATE" FUNCTION (for reliable rendering) ---
+    function updateTypingMessage(finalHtml, isUnread) {
+      const botMessages = document.querySelectorAll(".message.bot");
+      const lastMessage = botMessages[botMessages.length - 1]; 
+      
+      if (lastMessage) {
+        const textDiv = lastMessage.querySelector(".text");
+        textDiv.innerHTML = ""; // Clear "Thinking..." text
+        textDiv.classList.remove("thinking"); // Remove .thinking class
+
+        const timestamp = document.createElement("div");
+        timestamp.classList.add("timestamp");
+        timestamp.innerText = getCurrentTime();
+
+        textDiv.innerHTML = finalHtml; 
+        textDiv.appendChild(timestamp); 
+        
+        smoothScrollToBottom();
+      }
+      
+      // 
+      // --- THIS IS THE FIX ---
+      // We just trust the 'isUnread' variable from the backend.
+      //
+      if (isUnread) {
+        unreadMessages++;
+        updateNotificationBadge();
+      }
+    }
+
+    // --- Sending a Message ---
+    function sendMessage() {
+      const message = userInput.value.trim();
+      if (!message) return;
+
+      const escapedMessage = message.replace(/</g, "&lt;").replace(/>/g, "&gt;");
+      appendMessage("user", escapedMessage);
+      userInput.value = "";
+
+      appendMessage("bot", "", true); 
+
+      fetch("/chat", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ message: message }),
+      })
+      .then(res => res.json())
+      .then(data => {
+        updateTypingMessage(data.reply, data.unread_message); 
+      })
+      .catch(err => {
+        console.error(err);
+        updateTypingMessage("⚠️ Sorry, I'm having trouble connecting.", true); // Assume unread if error
+      });
+    }
+
+    function sendQuickReply(text) {
+      userInput.value = text;
+      sendMessage();
+    }
+
+    // --- Event Listeners ---
+    sendBtn.addEventListener("click", sendMessage);
+    userInput.addEventListener("keypress", function(event) {
+      if (event.key === "Enter") {
+        event.preventDefault();
+        sendMessage();
+      }
+    });
+
+    moreRepliesBtn.addEventListener("click", function() {
+      const isExpanded = quickRepliesContainer.classList.toggle("expanded");
+      if (isExpanded) {
+        moreRepliesBtn.innerHTML = "▲";
+      } else {
+        moreRepliesBtn.innerHTML = "▼";
+      }
+    });
+
+
+    // --- Initial Bot Greeting ---
+    window.addEventListener("load", () => {
+      // Create a static image of the bot_icon.png with a transparent background
+      // and a slight up-down floating animation.
+      // This will replace the 🤖 emoji directly in the HTML.
+      const botIconImg = document.createElement('img');
+      botIconImg.src = "{{ url_for('static', filename='bot_icon.png') }}";
+      botIconImg.alt = "Bot Icon";
+      chatToggle.innerHTML = ''; // Clear the old emoji
+      chatToggle.appendChild(botIconImg);
+      chatToggle.appendChild(notificationBadge); // Re-add the badge element
+
+      setTimeout(() => {
+         appendMessage("bot", "", true); 
+         updateTypingMessage("Hi there! How can I help you with ARMIET today? 📘💰📑", false); // Initial greeting is not unread
+      }, 500);
+    });
+  </script>
+</body>
+</html>

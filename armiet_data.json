@@ -1,0 +1,2035 @@
+{
+  "college": {
+    "name": "Alamuri Ratnamala Institute of Engineering and Technology (ARMIET)",
+    "run_by": "Koti Vidya Charitable Trust",
+    "location": "A.S Rao Nagar, Sapgaon, Shahapur, Thane - 421601",
+    "dte_code": "3219"
+  },
+  "quality_policy": {
+    "policy_statement": "We at Alamuri Ratnamala Institute of Engineering and Technology are committed to imparting quality education & training, leading to all-round development of students in different branches of Engineering. We would demonstrate continual improvement by complying with requirements, monitoring our abilities and implementation of a Quality Management System (QMS).",
+    "mission": "We aim to provide a platform for student development by understanding their individual industrial needs by developing technical leadership, quality interpersonal skills & the importance of professionalism and ethics.",
+    "communication": "The quality policy is supported by our staff and is communicated through different channels such as notices, websites, etc., understood within the institution and by management from time to time for development and suitability. The all-round development of personality so as to prepare them to undertake duties and responsibilities as a successful engineer."
+  },
+  "course": {
+    "diploma": {
+      "name": "Diploma in Engineering",
+      "duration": "3 Years",
+      "eligibility": "SSC/Class 10th pass with at least 35% marks"
+    },
+    "degree": {
+      "name": "Bachelor of Engineering (B.E.)",
+      "duration": "4 Years",
+      "eligibility": "HSC/Class 12th pass with PCM and at least 45% marks"
+    }
+  },
+  "admission": {
+    "process": [
+      "Register on Directorate of Technical Education (DTE) Maharashtra website",
+      "Choose e-Scrutiny or Physical Scrutiny for document verification",
+      "Visit ARMIET Facilitation Center for seat acceptance"
+    ]
+  },
+  "admission_guidelines": {
+    "course": {
+      "name": "Diploma in Engineering",
+      "duration": "3 years"
+    },
+    "eligibility": "Class 10th/SSC Pass Students with at least 35% Marks",
+    "how_to_apply": [
+      "For Registration to Admission Process Visit to Website of Directorate of Technical Education (DTE), Maharashtra.",
+      "Choose e-Scrutiny mode for Document Verification.",
+      "OR",
+      "Select Physical Scrutiny and Visit to ARMIET Facilitation Center for Documents Verification.",
+      "Visit ARMIET Facilitation Center for seat Acceptance."
+    ],
+    "documents_required": [
+      "Class 8 Marksheet",
+      "Class 10 Marksheet",
+      "SSC Marksheet",
+      "SSC Board Certificate",
+      "Passport size photographs",
+      "Transfer/Leaving Certificate",
+      "Domicile/Nationality Certificate",
+      "Migration Certificate (if applicable)",
+      "Gap Certificate (if applicable)",
+      "Caste Certificate & Validity (if applicable)",
+      "Non-Creamy Layer Certificate (if applicable)",
+      "Proof of name change (if applicable)",
+      "Medical Fitness Certificate",
+      "Anti-ragging Affidavit",
+      "Annual Income Certificate (if applicable)"
+    ]
+  },
+  "departments_and_sections": {
+    "first_floor": [
+      "Computer Dept",
+      "IT Dept",
+      "AIML Dept",
+      "MMS Dept",
+      "Electrical Dept",
+      "Degree Exam Section",
+      "T&P Office",
+      "MMS Hall"
+    ],
+    "second_floor": [
+      "Library",
+      "Reading Room",
+      "EXTC Dept",
+      "Student Section",
+      "Auditorium"
+    ],
+    "third_floor": [
+      "Diploma Section"
+    ],
+    "Ground_floor": [
+      "Admin (Admission) Section",
+      "Principal Cabin",
+      "First Year Engg. Dept",
+      "Store Dept",
+      "First Aid cum Medical",
+      "Way to Elevator"
+    ]
+  },
+  "academic_calendar": {
+    "2025-26_odd": {
+      "classes_se_te_be": "07/07/2025",
+      "classes_fe_me": "11/08/2025",
+      "library_day": "12/08/2025",
+      "independence_day": "15/08/2025",
+      "freshers_party": "24/08/2025",
+      "teachers_day": "05/09/2025",
+      "engineers_day": "15/09/2025",
+      "navratri": "27/09/2025",
+      "gandhi_jayanti": "02/10/2025",
+      "food_festival": "14/10/2025",
+      "unity_day_marathon": "31/10/2025",
+      "theory_exams": "Nov–Dec 2025"
+    }
+  },
+  "academic_calendar_degree": {
+    "year": "2025-26",
+    "semester": "Odd (TENTATIVE)",
+    "key_dates": [
+      {
+        "activity": "Commencement of theory classes (S.E., T.E. & B.E.)",
+        "date": "07/07/2025",
+        "day": "Mon"
+      },
+      {
+        "activity": "One Day FDP on Intellectual Property Rights (IPR)",
+        "date": "14/07/2025",
+        "day": "Mon"
+      },
+      {
+        "activity": "Employability/Aptitude & Soft skills Training (B.E.)",
+        "date": "04/08/2025 to 09/08/2025",
+        "day": "Mon - Sat"
+      },
+      {
+        "activity": "Commencement of theory classes (F.E. & M.E.)",
+        "date": "11/08/2025",
+        "day": "Mon"
+      },
+      {
+        "activity": "Library Day",
+        "date": "12/08/2025",
+        "day": "Tue"
+      },
+      {
+        "activity": "World Entrepreneurship Day",
+        "date": "21/08/2025",
+        "day": "Thu"
+      },
+      {
+        "activity": "Unit Test-I (T.E & B.E.)",
+        "date": "21/08/2025 to 23/08/2025",
+        "day": "Thu - Sat"
+      },
+      {
+        "activity": "Fresher's Party",
+        "date": "24/08/2025",
+        "day": "Sun"
+      },
+      {
+        "activity": "Celebration of Teacher's Day",
+        "date": "05/09/2025",
+        "day": "Fri"
+      },
+      {
+        "activity": "Unit Test-I (S.E. & DSE)",
+        "date": "11/09/2025 to 13/09/2025",
+        "day": "Thu - Sat"
+      },
+      {
+        "activity": "Engineer's Day / ADSA Formation",
+        "date": "15/09/2025",
+        "day": "Mon"
+      },
+      {
+        "activity": "NSS Day (Indoor Sports)",
+        "date": "26/09/2025",
+        "day": "Fri"
+      },
+      {
+        "activity": "Navaratri / Dandiya Celebration",
+        "date": "27/09/2025",
+        "day": "Sat"
+      },
+      {
+        "activity": "INDIA Startup Day",
+        "date": "01/10/2025",
+        "day": "Wed"
+      },
+      {
+        "activity": "Unit Test II (S.E., T.E. & B.E.)",
+        "date": "09/10/2025 to 11/10/2025",
+        "day": "Thu - Sat"
+      },
+      {
+        "activity": "Unit Test-I (F.E. & M.E.)",
+        "date": "09/10/2025 to 11/10/2025",
+        "day": "Thu - Sat"
+      },
+      {
+        "activity": "Food Festival",
+        "date": "14/10/2025",
+        "day": "Tue"
+      },
+      {
+        "activity": "National Innovation Day / Reader Day",
+        "date": "15/10/2025",
+        "day": "Wed"
+      },
+      {
+        "activity": "Internal Term work Submission (S.E., T.E. & B.E.)",
+        "date": "13/10/2025 to 18/10/2025",
+        "day": "Mon - Sat"
+      },
+      {
+        "activity": "Term End (S.E., T.E. & B.E.)",
+        "date": "18/10/2025",
+        "day": "Sat"
+      },
+      {
+        "activity": "Conduction of Oral/Practical Examinations (S.E., T.E. & B.E.)",
+        "date": "27/10/2025 to 07/11/2025",
+        "day": "Mon - Fri"
+      },
+      {
+        "activity": "National Unity Day (ARMIET Marathon)",
+        "date": "31/10/2025",
+        "day": "Fri"
+      },
+      {
+        "activity": "Unit Test II (F.E & M.E.)",
+        "date": "06/11/2025 to 08/11/2025",
+        "day": "Thu - Sat"
+      },
+      {
+        "activity": "National Education Day",
+        "date": "11/11/2025",
+        "day": "Tue"
+      },
+      {
+        "activity": "Commencement of Theory Exams for S.E., T.E. & B.E. (SEM III, V, VII)",
+        "date": "10/11/2025 to 29/11/2025",
+        "day": "Mon - Sat"
+      },
+      {
+        "activity": "Internal Term work Submission (F.E. & M.E.)",
+        "date": "24/11/2025 to 28/11/2025",
+        "day": "Mon - Fri"
+      },
+      {
+        "activity": "Constitution Day",
+        "date": "26/11/2025",
+        "day": "Wed"
+      },
+      {
+        "activity": "Term End (F.E. & M.E.)",
+        "date": "28/11/2025",
+        "day": "Fri"
+      },
+      {
+        "activity": "World HIV/AIDS Day",
+        "date": "01/12/2025",
+        "day": "Mon"
+      },
+      {
+        "activity": "National Pollution Control Day",
+        "date": "02/12/2025",
+        "day": "Tue"
+      },
+      {
+        "activity": "Conduction of Oral/Practical Examinations (F.E. & M.E.)",
+        "date": "01/12/2025 to 09/12/2025",
+        "day": "Mon - Tue"
+      },
+      {
+        "activity": "Commencement Of Theory Exam AT/KT for F.E., S.E., T.E. & B.E. (SEM II, IV, VI, VIII)",
+        "date": "01/12/2025 to 13/12/2025",
+        "day": "Mon - Sat"
+      },
+      {
+        "activity": "National Energy Conservation Day",
+        "date": "14/12/2025",
+        "day": "Sun"
+      },
+      {
+        "activity": "Commencement of Theory Exams (F.E. & M.E.)",
+        "date": "15/12/2025 to 26/12/2025",
+        "day": "Mon - Fri"
+      }
+    ],
+    "holidays": [
+      {
+        "holiday": "Moharum",
+        "date": "06/07/2025",
+        "day": "Sunday"
+      },
+      {
+        "holiday": "Independence day/ Parsi New Year(Shahenshahi)",
+        "date": "15/08/2025",
+        "day": "Friday"
+      },
+      {
+        "holiday": "Mid Term Break (Ganpati-Vacation)",
+        "date": "27/08/2025 to 31/08/2025",
+        "day": "Wed - Sun"
+      },
+      {
+        "holiday": "Ganesh Chaturthi (Ganpati Vacation)",
+        "date": "27/08/2025 to 31/08/2025",
+        "day": "Wednesday to Sunday"
+      },
+      {
+        "holiday": "Id-E-Milad",
+        "date": "05/09/2025",
+        "day": "Friday"
+      },
+      {
+        "holiday": "Mahatma Gandhi Jayanti/Dussehra",
+        "date": "02/10/2025",
+        "day": "Thursday"
+      },
+      {
+        "holiday": "Diwali (Amavasya) (Laxmi Pujan)",
+        "date": "21/10/2025",
+        "day": "Tuesday"
+      },
+      {
+        "holiday": "Diwali (Bali Pratipada)",
+        "date": "22/10/2025",
+        "day": "Wednesday"
+      },
+      {
+        "holiday": "Diwali (Bhaubeej)",
+        "date": "23/10/2025",
+        "day": "Thursday"
+      },
+      {
+        "holiday": "Guru Nanak Jayanti",
+        "date": "05/11/2025",
+        "day": "Wednesday"
+      },
+      {
+        "holiday": "Christmas",
+        "date": "25/12/2025",
+        "day": "Thursday"
+      }
+    ]
+  },
+  "contact_info": {
+    "thane_office": {
+      "address": "1118 & 124, Vardhaman Indi. Estate, Gokul Nagar, Near Navneet Motors, Thane (W)",
+      "phone": "022-40244310/41002719"
+    },
+    "campus": {
+      "address": "ARMIET, A.S RAO NAGAR, Vill. Sapgaon, Tal: Shahapur, Dist: Thane-421 601",
+      "mobile": "8879648603"
+    }
+  },
+  "personnel": {
+    "chairman": [
+      {
+        "name": "Shri. Alamuri Venkateshwara Gupta",
+        "note": "Alternate Chairman and Founder Trustee"
+      },
+      {
+        "name": "Dr. Lavendra S. Bothra",
+        "note": "Chairman"
+      }
+    ],
+    "founder_chairman_and_campus_director": {
+      "name": "Dr. Lavendra S. Bothra"
+    },
+    "principal": [
+      {
+        "name": "Prof. Dr. Prakash Patil",
+        "role": "Principal In-Charge, B.E, M.E, PhD (Electronics) Engineering"
+      },
+      {
+        "name": "Prof. Dr. Kshitij Pandey",
+        "role": "Principal - (B.E, M.E, PhD (Mechanical Engineering)) Diploma Engineering"
+      }
+    ],
+    "dean": {
+      "name": "Prof. Mayank Mangal"
+    },
+    "registrar": {
+      "name": "Mr. Ankit Sanghvi"
+    },
+    "head_of_department": {
+      "bachelor_of_engineering": [
+        {
+          "department": "Humanities and Science (FE Department)",
+          "hod": "Prof. Nitin Namdeo Pawar"
+        },
+        {
+          "department": "Civil Engineering",
+          "hod": "Prof. Sukant Kumar Chauhan"
+        },
+        {
+          "department": "Computer Engineering",
+          "hod": "Prof. Jagruti A.Gujare"
+        },
+        {
+          "department": "Computer & AIML Engineering",
+          "hod": "Prof. Vivek Pandey"
+        },
+        {
+          "department": "Electrical Engineering",
+          "hod": "Dr. Munna Kumar"
+        },
+        {
+          "department": "EXTC Engineering",
+          "hod": "Dr. Deblina Maity"
+        },
+        {
+          "department": "IT Engineering",
+          "hod": "Prof. Kanchan Malviya"
+        },
+        {
+          "department": "Mechanical Engineering",
+          "hod": "Prof. Rajesh kumar"
+        }
+      ],
+      "diploma_in_engineering": [
+        {
+          "department": "Humanities and Applied Science",
+          "hod": "Prof. Hamza Momin"
+        },
+        {
+          "department": "AIML Engineering",
+          "hod": "Prof. Heena Patil"
+        },
+        {
+          "department": "EXTC Engineering",
+          "hod": "Prof. Aniket Liladhar Lata Sonawane"
+        },
+        {
+          "department": "Mechatronics Engineering",
+          "hod": "Prof. Umesh Mahadik"
+        },
+        {
+          "department": "Civil Engineering",
+          "hod": "Prof. Devidas Vanve"
+        },
+        {
+          "department": "Mechanical Engineering",
+          "hod": "Prof. Yogesh Ramesh Shivarkar"
+        }
+      ]
+    }
+  },
+  "college_timings": {
+    "general_hours": "The college is open from 9:00 AM to 5:30 PM.",
+    "lecture_start": "Lectures begin at 10:00 AM.",
+    "lunch_break": "The lunch break is from 1:00 PM to 1:30 PM.",
+    "college_end": "The college closes at 5:30 PM."
+  },
+  "q_and_a": [
+    {
+      "category": "Admission Related",
+      "questions": [
+        {
+          "q": "What is the admission fee?",
+          "a": "The admission fee for new students is ₹5,000. This is a one-time payment made at the time of securing admission, separate from tuition and other academic charges. The fee is non-refundable under normal circumstances."
+        },
+        {
+          "q": "What is the last date to apply for admission?",
+          "a": "The final deadline to submit your admission application is 30th September for the current academic year. After this date, the portal will close. Spot admissions may be conducted if there are vacant seats."
+        },
+        {
+          "q": "Where can I apply for admission?",
+          "a": "You can apply through the official college website via the online application form, which is the preferred method for easy tracking. Offline forms are also available at the admission office on campus."
+        },
+        {
+          "q": "What are the eligibility criteria for undergraduate courses?",
+          "a": "To be eligible for most undergraduate programs, you must have successfully completed Class 12 from a recognized board with a minimum of 50% aggregate. Reserved category students may receive relaxation."
+        },
+        {
+          "q": "What is the eligibility for postgraduate courses?",
+          "a": "For postgraduate programs, you should hold a recognized undergraduate degree in a relevant field with at least 50% marks. Some courses may require entrance exams or interviews."
+        },
+        {
+          "q": "Can I apply for admission offline?",
+          "a": "Yes, offline admission forms are available at the admission office during working hours. You must fill out the form, attach photocopies of required documents, and submit it with the application fee."
+        },
+        {
+          "q": "What documents are required during admission?",
+          "a": "Required documents include mark sheets, transfer and migration certificates, caste certificate (if applicable), valid ID proof, and recent passport-sized photographs. Originals are needed for verification."
+        },
+        {
+          "q": "Is there a management quota?",
+          "a": "Yes, the college has a limited number of seats under the management quota. Admission under this quota is subject to management approval and generally has a higher fee structure, though you must still meet minimum eligibility."
+        },
+        {
+          "q": "Can international students apply?",
+          "a": "Yes, international students are welcome to apply. They must provide a valid passport, student visa, equivalent qualification certificates, and proof of English language proficiency."
+        },
+        {
+          "q": "How can I check my admission status?",
+          "a": "You can track your admission status on the student admission portal by logging in with your registered email ID and password. Updates on shortlisting and final confirmation will be displayed on your dashboard."
+        },
+        {
+          "q": "Can I change my course after admission?",
+          "a": "Yes, course changes are allowed within the first two weeks of admission if there are seats available. You will need to apply through the admission office and pay a small processing fee."
+        },
+        {
+          "q": "Do I need to appear for an entrance test?",
+          "a": "Entrance tests are mandatory for some professional courses like B.Tech and MBA. Other programs, like B.A. or B.Com, generally admit students based on merit. Please check the admission brochure for your specific course."
+        },
+        {
+          "q": "What is the admission process for diploma students entering degree courses?",
+          "a": "Diploma holders can apply for lateral entry into second-year degree courses. They must meet the eligibility criteria and may need to appear for a separate entrance exam or counseling round."
+        },
+        {
+          "q": "Can I reserve a seat before final results are declared?",
+          "a": "Yes, provisional admission is possible by submitting your current mark sheets and an undertaking to provide final results later. Your seat will be reserved until you submit the final documents."
+        },
+        {
+          "q": "Is there a helpline for admission queries?",
+          "a": "Yes, the college has a dedicated admission helpline number and email. Queries are usually responded to within 24 hours during working hours."
+        }
+      ]
+    },
+    {
+      "category": "Fees & Scholarships",
+      "questions": [
+        {
+          "q": "What is the tuition fee per year?",
+          "a": "The annual tuition fee is ₹25,000 for undergraduate programs. Hostel, exam, and other fees are charged separately."
+        },
+        {
+          "q": "Can I pay my fees online?",
+          "a": "Yes, the college provides multiple online payment options, including net banking, UPI, and debit/credit cards. An instant receipt is generated for all online payments."
+        },
+        {
+          "q": "Can I pay my fees in installments?",
+          "a": "Yes, you can pay fees in two installments per semester. However, the full amount must be cleared before the semester exams."
+        },
+        {
+          "q": "Is there a late fee penalty?",
+          "a": "Yes, a late fine of ₹500 will be charged per week for fees not paid by the due date. Prolonged non-payment may result in being barred from classes or exams."
+        },
+        {
+          "q": "Are there fee concessions?",
+          "a": "Yes, fee concessions are available for students from economically weaker sections, as well as those who perform exceptionally well in academics or sports."
+        },
+        {
+          "q": "What is the examination fee?",
+          "a": "Examination fees are ₹1,000 per semester. This covers the cost of exam materials, invigilation, and mark sheet generation."
+        },
+        {
+          "q": "Is the admission fee refundable?",
+          "a": "No, the admission fee is strictly non-refundable. However, tuition fees may be partially refunded if a student withdraws within a specific period as per the refund policy."
+        },
+        {
+          "q": "Is there any fine for bouncing a cheque?",
+          "a": "Yes, in case a fee payment cheque is dishonored, a penalty of ₹1,000 will be charged. The pending amount must be cleared immediately using another payment mode."
+        },
+        {
+          "q": "What scholarships are available?",
+          "a": "The college offers a variety of scholarships, including merit-based, need-based, and sports. Students from SC/ST/OBC and economically weaker backgrounds may apply for special financial assistance."
+        },
+        {
+          "q": "How can I apply for a scholarship?",
+          "a": "Scholarship application forms are available on the college website and at the accounts office. You must fill out the form, attach the required documents, and submit them before the deadline."
+        },
+        {
+          "q": "Can I apply for more than one scholarship?",
+          "a": "Students can apply for multiple scholarships, but they can only avail one at a time. If awarded multiple scholarships, students may need to choose the one with greater benefits."
+        },
+        {
+          "q": "Are scholarships renewable every year?",
+          "a": "Most scholarships are renewable each academic year, subject to the student maintaining the required academic performance and good conduct. Some also require annual income verification."
+        },
+        {
+          "q": "What is the last date to apply for scholarships?",
+          "a": "Scholarship deadlines vary. College-level scholarships usually close within the first month of the academic year, while government scholarships may have extended deadlines."
+        }
+      ]
+    },
+    {
+      "category": "Fees & Payments",
+      "questions": [
+        {
+          "q": "What is the annual tuition fee for different courses?",
+          "a": "Tuition fees vary by program. Undergraduate courses range from ₹20,000–₹40,000 annually, while professional programs like B.Tech are typically ₹70,000–₹1,20,000 per year. Postgraduate courses may be between ₹1,50,000–₹2,00,000 annually. The exact fee structure is available on the college website."
+        },
+        {
+          "q": "Are there any additional charges apart from tuition fees?",
+          "a": "Yes, additional charges include development fees, examination fees, library deposits, laboratory usage fees, and hostel charges (if applicable). These are separate from tuition fees."
+        },
+        {
+          "q": "Can fees be paid in installments?",
+          "a": "Yes, fees can be paid in two or three installments during the academic year. You must adhere to the payment schedule to avoid late fees or withholding of hall tickets."
+        },
+        {
+          "q": "What payment methods are accepted?",
+          "a": "Online payment methods include net banking, debit/credit cards, and UPI. The accounts office also accepts demand drafts and cheques."
+        },
+        {
+          "q": "Is there a late fee if I miss the payment deadline?",
+          "a": "Yes, a late fee of ₹100 to ₹1,000 is applied for delayed payments. Consistent failure to pay may result in debarment from exams."
+        },
+        {
+          "q": "Do international students have a different fee structure?",
+          "a": "Yes, international students generally have a higher fee structure. However, scholarships and concessions may be available to deserving candidates."
+        },
+        {
+          "q": "Are there any scholarships or fee waivers available?",
+          "a": "Yes, scholarships are available based on merit, need, and specific categories like SC/ST/OBC. Fee waivers may also be granted to economically disadvantaged students."
+        },
+        {
+          "q": "How can I apply for a scholarship?",
+          "a": "Scholarship application forms can be obtained from the accounts office or downloaded from the college website. You must submit the completed form along with required documents by the specified deadline."
+        },
+        {
+          "q": "Can I get a refund if I withdraw from the course?",
+          "a": "Yes, fee refunds are available if you withdraw within a specified period (usually within the first month). Only tuition fees are refundable; admission and registration fees are non-refundable."
+        },
+        {
+          "q": "Is there a fee waiver for economically weaker students?",
+          "a": "Yes, the college offers partial or full fee waivers for students from economically weaker sections based on proper documentation of family income. These waivers are limited."
+        },
+        {
+          "q": "Where can I get the official fee structure?",
+          "a": "The detailed fee structure is in the college prospectus, on the official website, and on the notice boards of the accounts office."
+        }
+      ]
+    },
+    {
+      "category": "Library & Resources",
+      "questions": [
+        {
+          "q": "How do I get a library card?",
+          "a": "To get a library card, you need to fill out a registration form at the library desk and provide a passport-size photograph and a copy of your college ID card."
+        },
+        {
+          "q": "How many books can I borrow at a time?",
+          "a": "Undergraduate students can borrow up to 2 books for 7 days, while postgraduate students can borrow up to 4 books for 14 days."
+        },
+        {
+          "q": "What happens if I lose a library book?",
+          "a": "You must report the loss immediately. You're required to either replace the book or pay its cost along with a fine. Failure to do so may result in suspension of library privileges."
+        },
+        {
+          "q": "Are e-books and online journals available?",
+          "a": "Yes, the college provides access to e-books and online journal databases like JSTOR and IEEE. You can log in with your college credentials to access these resources remotely."
+        },
+        {
+          "q": "What are the library opening hours?",
+          "a": "The library is open from 10:00 AM to 5:00 PM on weekdays. It is closed on Sundays and public holidays."
+        },
+        {
+          "q": "Is there a reading room facility?",
+          "a": "Yes, the library has dedicated reading rooms for quiet study, as well as group study and discussion zones for collaborative learning."
+        },
+        {
+          "q": "Can I use the library during vacations?",
+          "a": "Yes, the library remains open during vacations with reduced working hours. You can continue to access books and digital resources throughout the year."
+        },
+        {
+          "q": "How do I renew a borrowed book?",
+          "a": "Books can be renewed through in person at the circulation desk, provided no one else has requested the book. Renewals are generally allowed only once."
+        },
+        {
+          "q": "Are there fines for overdue books?",
+          "a": "Yes, a fine of typically ₹5 per day is charged for overdue books. If you have outstanding fines, you may not be able to borrow additional books until the dues are cleared."
+        },
+        {
+          "q": "Does the library provide photocopy and printing services?",
+          "a": "Yes, photocopy and printing facilities are available at nominal charges. You can also scan documents or download study materials from library computers."
+        }
+      ]
+    },
+    {
+      "category": "Placements & Career",
+      "questions": [
+        {
+          "q": "Does the college have a placement cell?",
+          "a": "Yes, the college has a dedicated Training and Placement Cell that connects students with top recruiters, provides training, and organizes job fairs."
+        },
+        {
+          "q": "Which companies visit the campus for placements?",
+          "a": "Reputed companies from IT, finance, consulting, and engineering sectors visit the campus. Past recruiters include Infosys, TCS, Wipro, and Deloitte."
+        },
+        {
+          "q": "What is the average placement package?",
+          "a": "The average placement package for undergraduate students ranges from ₹3.5 LPA to ₹6 LPA, and for postgraduate students, it's typically ₹6 LPA to ₹10 LPA."
+        },
+        {
+          "q": "Are internships compulsory before placements?",
+          "a": "Yes, internships are compulsory for professional courses like MBA and B.Tech. Internships provide practical exposure and can lead to pre-placement offers."
+        },
+        {
+          "q": "How does the college prepare students for placements?",
+          "a": "The placement cell conducts mock interviews, aptitude tests, group discussions, and soft skills training to prepare students for job opportunities."
+        },
+        {
+          "q": "Can students from all courses participate in placements?",
+          "a": "Yes, all eligible students from undergraduate and postgraduate programs can participate. However, some companies may have specific eligibility criteria."
+        },
+        {
+          "q": "What is the eligibility for placement drives?",
+          "a": "Students must maintain a minimum CGPA (usually 6.0 or above), clear all backlogs, and meet attendance requirements to be eligible for placement drives."
+        },
+        {
+          "q": "Does the college provide support for higher studies abroad?",
+          "a": "Yes, the placement cell guides students who want to pursue higher studies abroad by providing information on entrance exams like GRE, TOEFL, and IELTS, as well as application and scholarship opportunities."
+        },
+        {
+          "q": "Are entrepreneurship opportunities supported?",
+          "a": "Yes, the college has an Innovation and Entrepreneurship Cell (E-Cell) that supports student startups with mentorship, incubation space, and funding opportunities."
+        },
+        {
+          "q": "Can alumni participate in placement drives?",
+          "a": "No, placement drives are primarily for final-year students. However, the alumni network often shares job opportunities and referrals for graduates through the placement cell."
+        }
+      ]
+    },
+    {
+      "category": "Campus Life & Extracurriculars",
+      "questions": [
+        {
+          "q": "What clubs and societies are available on campus?",
+          "a": "The college has over 30 active clubs and societies, including those for debating, music, dance, photography, and coding. These clubs organize workshops and competitions to let students explore interests beyond academics."
+        },
+        {
+          "q": "How do I join a student club?",
+          "a": "You can join a club during the annual recruitment drive at the beginning of each semester. Just fill out a registration form, attend orientation, and sometimes an audition or interview."
+        },
+        {
+          "q": "Are there opportunities for sports?",
+          "a": "Yes, the college has well-equipped sports facilities for cricket, football, basketball, volleyball, and indoor games. Professional coaches are available, and students can participate in tournaments."
+        },
+        {
+          "q": "Does the college organize cultural festivals?",
+          "a": "Yes, the annual cultural fest is a major event with singing, dancing, drama, and celebrity performances. Smaller cultural programs are also held throughout the year to celebrate regional traditions."
+        },
+        {
+          "q": "What academic events are conducted on campus?",
+          "a": "The college organizes seminars, guest lectures, workshops, technical fests, and hackathons. National and international conferences are also hosted to expose students to the latest research trends."
+        },
+        {
+          "q": "Is there a student council or union?",
+          "a": "Yes, a student council is elected by the student body to represent student interests, organize events, and act as a bridge between faculty and students."
+        },
+        {
+          "q": "How are cultural and sports achievements recognized?",
+          "a": "Students who excel in cultural or sports events receive certificates, trophies, and cash prizes. Outstanding performers may also get fee concessions or scholarships."
+        },
+        {
+          "q": "Are there leadership opportunities for students?",
+          "a": "Yes, students can take leadership roles in clubs, societies, and the student council. These positions help build organizational and communication skills."
+        },
+        {
+          "q": "Does the college provide support for arts and creativity?",
+          "a": "Yes, there are dedicated art studios, music rooms, dance halls, and theaters for students interested in creative arts. Annual exhibitions and talent hunts provide platforms for showcasing skills."
+        },
+        {
+          "q": "Are students encouraged to participate in community service?",
+          "a": "Yes, through the National Service Scheme (NSS) and other social clubs, students are encouraged to participate in blood donation camps, cleanliness drives, and rural development projects."
+        }
+      ]
+    },
+    {
+      "category": "IT & Digital Services",
+      "questions": [
+        {
+          "q": "How do I access the college Wi-Fi?",
+          "a": "Students get unique login credentials after registration. Wi-Fi is available across campus, including classrooms. You should not share your login details for security reasons."
+        },
+        {
+          "q": "What is the college email ID used for?",
+          "a": "Every student gets an official college email ID for academic and administrative communication. It's used to submit assignments, contact faculty, and register for events."
+        },
+        {
+          "q": "Does the college have a student portal?",
+          "a": "Yes, the student portal gives you access to class schedules, attendance records, exam results, and fee payments. You can access it with your college ID and password."
+        },
+        {
+          "q": "Can I access study material online?",
+          "a": "Yes, faculty upload lecture notes, PPTs, recorded sessions, and readings on the student portal and Learning Management System (LMS) for continuous access."
+        },
+        {
+          "q": "What if I forget my portal password?",
+          "a": "You can reset your password using the “Forgot Password” option on the login page. If that doesn't work, you can contact the IT helpdesk for assistance."
+        },
+        {
+          "q": "Are online classes conducted?",
+          "a": "Yes, online classes are held during special circumstances, such as holidays or emergencies, using platforms like Google Meet or Microsoft Teams."
+        },
+        {
+          "q": "How do I register for online examinations?",
+          "a": "You can register for online exams through the student portal by filling out a form, selecting subjects, and paying the fee before the deadline."
+        },
+        {
+          "q": "Does the college provide computer labs?",
+          "a": "Yes, the college has state-of-the-art computer labs with high-speed internet and licensed software. They are accessible during working hours and exam weeks."
+        },
+        {
+          "q": "Can I print or scan documents on campus?",
+          "a": "Yes, the IT center and library offer printing, scanning, and photocopying services at a nominal charge. Remember to bring your college ID."
+        },
+        {
+          "q": "Is there IT support for students facing technical issues?",
+          "a": "Yes, the IT helpdesk resolves issues related to portal access, email, and Wi-Fi. You can raise a ticket online or visit the IT cell directly."
+        }
+      ]
+    },
+    {
+      "category": "Health & Safety",
+      "questions": [
+        {
+          "q": "Does the college have a medical center?",
+          "a": "Yes, a health center with a resident doctor and nurse is available on campus. They provide basic medical treatments, first aid, and regular health check-ups for free."
+        },
+        {
+          "q": "What should I do in case of a medical emergency?",
+          "a": "In an emergency, immediately inform faculty or hostel wardens. The medical team will provide first aid and arrange for an ambulance to the nearest hospital if needed."
+        },
+        {
+          "q": "Are vaccinations or health camps organized?",
+          "a": "Yes, the college regularly organizes vaccination drives, dental check-ups, eye camps, and general health awareness programs in collaboration with local hospitals."
+        },
+        {
+          "q": "Is there counseling support for mental health?",
+          "a": "Yes, the college has trained counselors and psychologists who provide confidential mental health counseling. Workshops on stress management and emotional well-being are also conducted."
+        },
+        {
+          "q": "How safe is the college campus?",
+          "a": "The campus has 24/7 CCTV surveillance, and security guards are at all entry and exit points. Only students and staff with valid ID cards are allowed inside."
+        },
+        {
+          "q": "Are there anti-ragging measures in place?",
+          "a": "Yes, the college has a strict zero-tolerance policy against ragging. An anti-ragging committee, helpline, and awareness campaigns ensure a safe environment for all students."
+        },
+        {
+          "q": "How are hostel premises secured?",
+          "a": "Hostels are secured with security guards, biometric entry systems, and CCTV cameras. All visitors must register at the hostel office before entering."
+        },
+        {
+          "q": "What disaster management measures are followed?",
+          "a": "The college has fire safety equipment, conducts evacuation drills, and has disaster response teams trained to handle emergencies. Safety training sessions are held annually."
+        },
+        {
+          "q": "Are there gender sensitization programs?",
+          "a": "Yes, the Women’s Development Cell (WDC) conducts workshops and awareness drives to promote gender equality and provide support in cases of harassment or discrimination."
+        },
+        {
+          "q": "Can students report grievances anonymously?",
+          "a": "Yes, the grievance redressal system allows students to submit complaints anonymously through online forms or complaint boxes placed across campus. Strict confidentiality is maintained."
+        }
+      ]
+    },
+    {
+      "category": "Events & Celebrations",
+      "questions": [
+        {
+          "q": "What is the annual college fest?",
+          "a": "The annual college fest, usually in February–March, is a week-long celebration with cultural shows, sports events, technical competitions, and celebrity nights. It attracts participants from across the country."
+        },
+        {
+          "q": "Are academic conferences conducted?",
+          "a": "Yes, various departments organize national and international conferences where students and faculty present research papers. These events provide opportunities for networking and publishing."
+        },
+        {
+          "q": "Does the college celebrate national holidays?",
+          "a": "Yes, Independence Day, Republic Day, and Gandhi Jayanti are celebrated with flag hoisting ceremonies, cultural programs, and awareness activities. Students actively participate in organizing these events."
+        },
+        {
+          "q": "Are there farewell and fresher’s parties?",
+          "a": "Yes, senior students organize fresher’s parties to welcome newcomers, while juniors arrange farewell parties for graduating students. These are informal gatherings with games and performances."
+        },
+        {
+          "q": "Are inter-college competitions organized?",
+          "a": "Yes, the college frequently participates in and organizes sports meets, cultural competitions, and technical contests at inter-college, university, and state levels."
+        },
+        {
+          "q": "Are alumni invited to college events?",
+          "a": "Yes, alumni are invited to alumni meets, seminars, and cultural programs. They often share career experiences and guide current students."
+        },
+        {
+          "q": "Can students propose and organize their own events?",
+          "a": "Yes, students can propose events by submitting a plan to the student council or faculty coordinator. Once approved, the college provides funding and infrastructure support."
+        },
+        {
+          "q": "What are technical fests?",
+          "a": "Technical fests are annual events organized by engineering and science departments. They feature hackathons, coding contests, robotics exhibitions, and project presentations to encourage innovation and technical skills."
+        },
+        {
+          "q": "Does the college host career fairs?",
+          "a": "Yes, career fairs are organized where multiple recruiters set up stalls to interact with students. These fairs help students explore job opportunities, internships, and higher study options."
+        },
+        {
+          "q": "Are cultural diversity festivals celebrated?",
+          "a": "Yes, the college celebrates festivals like Diwali, Christmas, Eid, and Holi with cultural performances and food stalls. These events promote inclusivity and respect for diversity."
+        }
+      ]
+    },
+    {
+      "category": "Research & Innovation",
+      "questions": [
+        {
+          "q": "Does the college support student research projects?",
+          "a": "Yes, the college encourages research through funded projects, research labs, and faculty mentorship. Students can apply for grants and participate in university-level research programs."
+        },
+        {
+          "q": "How do I approach faculty for research guidance?",
+          "a": "Students should first identify a faculty member in their area of interest and then request a meeting. A formal research proposal is usually required to begin the project."
+        },
+        {
+          "q": "Are research papers published by students?",
+          "a": "Yes, many departments publish student research in college journals and national/international conferences. Guidance is provided for drafting and formatting research papers."
+        },
+        {
+          "q": "Does the college have a patent support cell?",
+          "a": "Yes, an Intellectual Property Rights (IPR) cell helps students and faculty file patents, copyright claims, and trademarks. Workshops on patent drafting are also conducted."
+        },
+        {
+          "q": "Are innovation competitions organized?",
+          "a": "Yes, the college organizes innovation challenges, hackathons, and startup competitions where students pitch ideas and develop prototypes. Winners often get seed funding."
+        },
+        {
+          "q": "Can students collaborate with industry for projects?",
+          "a": "Yes, the Industry-Academia Collaboration Cell connects students with companies for real-world projects, internships, and problem-solving initiatives."
+        },
+        {
+          "q": "What research facilities are available?",
+          "a": "The college has well-equipped labs, libraries with online journals, high-performance computing systems, and dedicated research centers for science, technology, and humanities."
+        },
+        {
+          "q": "Are research scholarships available?",
+          "a": "Yes, research-focused students can apply for Junior Research Fellowships (JRF), university grants, and industry-sponsored scholarships."
+        },
+        {
+          "q": "Can undergraduate students participate in research?",
+          "a": "Yes, even undergraduates are encouraged to work on mini-projects, final-year projects, and summer research internships. This helps them prepare for higher studies."
+        },
+        {
+          "q": "How is innovation encouraged on campus?",
+          "a": "Through startup incubators, entrepreneurship cells, maker spaces, and innovation labs, students receive resources, mentorship, and funding to develop new ideas."
+        }
+      ]
+    },
+    {
+      "category": "International Students",
+      "questions": [
+        {
+          "q": "Does the college admit international students?",
+          "a": "Yes, the college has a dedicated International Student Cell that facilitates admissions, visa assistance, and orientation programs for foreign students."
+        },
+        {
+          "q": "What documents are required for international admissions?",
+          "a": "International students need to submit their academic transcripts, passport, student visa, proof of English proficiency, and financial documents."
+        },
+        {
+          "q": "Is there a quota for foreign students?",
+          "a": "Yes, universities generally reserve 5–15% of seats for foreign nationals depending on the program."
+        },
+        {
+          "q": "Are courses taught in English?",
+          "a": "Yes, all major courses are taught in English, and international students can attend language support classes if required."
+        },
+        {
+          "q": "Does the college provide hostel facilities for international students?",
+          "a": "Yes, separate hostel blocks with cultural integration activities, international cuisine, and additional support services are available for foreign students."
+        },
+        {
+          "q": "Are there cultural exchange programs?",
+          "a": "Yes, the college conducts student exchange programs with partner universities abroad. International students are encouraged to participate in cultural exchange and global networking events."
+        },
+        {
+          "q": "What scholarships are available for international students?",
+          "a": "International students may be eligible for government scholarships, merit-based scholarships, or special tuition fee concessions offered by the college."
+        },
+        {
+          "q": "Is there a mentor system for international students?",
+          "a": "Yes, each international student is assigned a faculty mentor and a student buddy to help them adjust to academics and campus life."
+        },
+        {
+          "q": "How does the college celebrate cultural diversity?",
+          "a": "The annual International Student Day features cultural performances, food stalls, and exhibitions where students showcase their traditions and heritage."
+        },
+        {
+          "q": "Can international students work part-time while studying?",
+          "a": "Depending on visa rules, international students may work part-time on campus as library assistants, tutors, or research interns. Off-campus work is subject to government regulations."
+        }
+      ]
+    },
+    {
+      "category": "Administration & Policies",
+      "questions": [
+        {
+          "q": "What is the grievance redressal mechanism?",
+          "a": "Students can submit grievances online or through complaint boxes. The Grievance Redressal Committee reviews cases and ensures timely resolution while maintaining confidentiality."
+        },
+        {
+          "q": "What is the attendance policy?",
+          "a": "Students must maintain a minimum of 75% attendance in each course to be eligible for exams. Shortage of attendance may lead to detention."
+        },
+        {
+          "q": "Can attendance be condoned?",
+          "a": "Attendance shortages may be condoned in genuine cases such as medical emergencies or participation in official events, provided proper documentation is submitted."
+        },
+        {
+          "q": "What is the dress code policy?",
+          "a": "Some departments require formal or semi-formal attire, while others allow casual wear. Lab sessions and workshops may have specific dress codes (e.g., lab coats, uniforms)."
+        },
+        {
+          "q": "What is the plagiarism policy?",
+          "a": "The college strictly prohibits plagiarism in assignments, projects, and research. Submissions are checked using plagiarism detection software, and violations can lead to disciplinary action."
+        },
+        {
+          "q": "What is the exam malpractice policy?",
+          "a": "Exam malpractices such as cheating, impersonation, or use of unauthorized material can lead to suspension, cancellation of papers, or expulsion."
+        },
+        {
+          "q": "Can students record lectures?",
+          "a": "Recording lectures is generally not allowed without faculty permission. However, some professors may permit recording for academic purposes only."
+        },
+        {
+          "q": "What is the re-evaluation policy for exams?",
+          "a": "Students can apply for re-checking or re-evaluation within 10 days of result declaration by paying a nominal fee. The re-evaluation process is transparent and final."
+        },
+        {
+          "q": "What is the leave application procedure?",
+          "a": "Students must submit a written or online leave application to the class teacher or head of department. For medical leave, a doctor’s certificate is mandatory."
+        },
+        {
+          "q": "How does the college handle student discipline?",
+          "a": "The Disciplinary Committee handles cases of misconduct. Actions may include warnings, fines, suspension, or expulsion depending on the severity of the violation."
+        }
+      ]
+    },
+    {
+      "category": "Placements & Career Guidance",
+      "questions": [
+        {
+          "q": "Does the college have a placement cell?",
+          "a": "Yes, the college has a dedicated Placement and Training Cell that organizes recruitment drives, internships, and skill development workshops. It works closely with industry partners to bring top companies for campus hiring."
+        },
+        {
+          "q": "Which companies visit the campus for placements?",
+          "a": "Companies from diverse sectors such as IT (Infosys, TCS, Wipro, Accenture), Core Engineering (L&T, Siemens), Finance (HDFC, Deloitte), and Startups regularly visit the campus. The placement report is updated yearly."
+        },
+        {
+          "q": "What is the average placement package?",
+          "a": "The average salary package ranges between ₹3.5 – ₹6 LPA for undergraduates and ₹6 – ₹12 LPA for postgraduates, depending on the program and industry sector."
+        },
+        {
+          "q": "Does the college provide placement training?",
+          "a": "Yes, students undergo aptitude training, mock interviews, group discussions, resume building sessions, and soft skill development programs before recruitment drives."
+        },
+        {
+          "q": "Can students sit for multiple placement drives?",
+          "a": "Yes, students can appear for multiple drives. However, once a student accepts an offer, they may not be allowed to attend further interviews unless permitted by the placement cell."
+        },
+        {
+          "q": "What percentage of students get placed?",
+          "a": "On average, 80–90% of eligible students secure placements every year. The remaining often opt for higher studies, entrepreneurship, or government exams."
+        },
+        {
+          "q": "Are internships provided by the college?",
+          "a": "Yes, internships are facilitated through the placement cell. Many students are offered pre-placement offers (PPOs) after successful internships with reputed firms."
+        },
+        {
+          "q": "Does the college assist with higher studies abroad?",
+          "a": "Yes, the Career Guidance Cell provides counseling, GRE/IELTS preparation, SOP and LOR writing workshops, and university application support for students aiming to study abroad."
+        },
+        {
+          "q": "Is entrepreneurship encouraged?",
+          "a": "Absolutely. The college has an Entrepreneurship Development Cell (EDC) and Startup Incubator where students receive mentoring, seed funding, and networking opportunities to launch their own ventures."
+        },
+        {
+          "q": "Are government job preparations supported?",
+          "a": "Yes, the college runs special coaching sessions for UPSC, SSC, Banking, and State Government Exams. Students can also access study materials and mock tests."
+        }
+      ]
+    },
+    {
+      "category": "Alumni Network",
+      "questions": [
+        {
+          "q": "Does the college have an alumni association?",
+          "a": "Yes, the Alumni Association connects past graduates with current students, faculty, and industry partners. Alumni contribute through mentoring, guest lectures, and networking events."
+        },
+        {
+          "q": "How can I register as an alumnus?",
+          "a": "Alumni can register online through the college alumni portal or during alumni meet events. Registered members get updates on campus activities and job opportunities."
+        },
+        {
+          "q": "Are alumni invited for campus events?",
+          "a": "Yes, alumni are regularly invited for orientation programs, convocation ceremonies, career talks, and cultural festivals."
+        },
+        {
+          "q": "Do alumni help in placements?",
+          "a": "Many alumni working in reputed organizations help by referring students, conducting mock interviews, and arranging internships. This strengthens the placement ecosystem."
+        },
+        {
+          "q": "Is there an annual alumni meet?",
+          "a": "Yes, the college hosts an Annual Alumni Meet where graduates from different batches reconnect, network, and contribute to institutional growth."
+        },
+        {
+          "q": "Can alumni contribute financially?",
+          "a": "Yes, alumni can donate through the Alumni Development Fund, which is used for scholarships, infrastructure development, and supporting underprivileged students."
+        },
+        {
+          "q": "Are alumni success stories showcased?",
+          "a": "Yes, successful alumni are featured on the college website, newsletters, and social media to inspire current students."
+        },
+        {
+          "q": "Can alumni access college resources?",
+          "a": "Registered alumni may continue to access resources such as library services, online journals, and research collaborations with prior approval."
+        },
+        {
+          "q": "Is there a global alumni network?",
+          "a": "Yes, the alumni network spans across countries with regional alumni chapters that organize networking events and professional meetups."
+        },
+        {
+          "q": "Do alumni mentor students?",
+          "a": "Yes, alumni mentor programs are a key feature, where experienced professionals guide students on career planning, higher studies, and industry insights."
+        }
+      ]
+    },
+    {
+      "category": "Miscellaneous FAQs",
+      "questions": [
+        {
+          "q": "How do I get a bonafide certificate?",
+          "a": "Students can apply online or at the administrative office. A bonafide certificate is usually issued within 2–3 working days after verification of student details."
+        },
+        {
+          "q": "How do I get a character certificate?",
+          "a": "The character certificate is issued by the Principal’s office upon request. It requires clearance from hostel, library, and accounts office before issuance."
+        },
+        {
+          "q": "Can I get a fee concession?",
+          "a": "Fee concessions are granted on a case-to-case basis for financially needy students. Applications must be submitted with supporting income documents for consideration."
+        },
+        {
+          "q": "How do I apply for a transfer certificate (TC)?",
+          "a": "Students must submit a written request to the registrar. After verifying dues (fees, library books, hostel clearance), the TC is issued within 7–10 working days."
+        },
+        {
+          "q": "How do I get my migration certificate?",
+          "a": "Migration certificates are issued to students moving to another university. Applications are processed through the examination cell and take 7–15 days."
+        },
+        {
+          "q": "How can I access the digital library?",
+          "a": "Students can log in with their college credentials to access e-books, journals, and research papers. Remote access is also available through VPN services."
+        },
+        {
+          "q": "What is the process to book seminar halls or auditoriums?",
+          "a": "Students or faculty must apply through the Events Committee, stating the purpose, date, and requirements. Bookings are confirmed on a first-come, first-serve basis."
+        },
+        {
+          "q": "How are lost-and-found items handled?",
+          "a": "Lost items are deposited at the student welfare office. Students can reclaim them by providing proof of ownership. Items unclaimed for over 90 days are donated."
+        },
+        {
+          "q": "Can I get a duplicate ID card?",
+          "a": "Yes, in case of loss, students can apply for a duplicate ID card at the administration office by submitting an FIR copy or undertaking. A small replacement fee is charged."
+        },
+        {
+          "q": "How does the college ensure student safety?",
+          "a": "The campus has 24/7 security, CCTV surveillance, anti-ragging cells, fire safety systems, and first-aid facilities. Emergency helplines are available for immediate assistance."
+        }
+      ]
+    },
+    {
+      "admission_status": "OPEN",
+      "admission_year": "2025 - 2026",
+      "programs": [
+        {
+          "level": "Diploma in Engineering",
+          "dte_code": "DEN3219",
+          "specializations": [
+            "Civil Engineering",
+            "Artificial Intelligence and Machine Learning",
+            "Electronics and Telecommunication Engineering",
+            "Mechanical Engineering",
+            "Mechatronics Engineering"
+          ]
+        },
+        {
+          "level": "Bachelor of Engineering",
+          "dte_code": "EN3219",
+          "specializations": [
+            "Civil Engineering",
+            "Computer Engineering",
+            "Computer Science and Engineering (AIML)",
+            "Electrical Engineering",
+            "Electronics and Telecommunication Engineering",
+            "Information Technology Engineering",
+            "Mechanical Engineering"
+          ]
+        },
+        {
+          "level": "Masters of Engineering",
+          "dte_code": "ME3219",
+          "specializations": [
+            "Computer Engineering",
+            "Electronics and Telecommunication Engineering",
+            "Mechanical Engineering Energy Systems and Management"
+          ]
+        },
+        {
+          "level": "Post Graduation in Management (MMS/MBA)",
+          "dte_code": "MB3219",
+          "specializations": [
+            "Marketing",
+            "Finance",
+            "Human Resources",
+            "Information Systems",
+            "Operations"
+          ]
+        }
+      ]
+    },
+    {
+      "institute_name": "Alumni Ratnamala Institute of Engineering and Technology",
+      "affiliation": "KVCT's ARMIET",
+      "minority_status": "A Hindi Linguistic Minority Institute",
+      "run_by": "Koti Vidya Charitable Trust",
+      "certification": "ISO 9001: 2015 Certified Accredited by NAAC with B+ Grade",
+      "admissions_notice_for": "A.Y. 2025-2026",
+      "admission_type": "Direct Second Year Engineering",
+      "dte_code": "EN3219",
+      "branches": [
+        {
+          "name": "Civil Engineering",
+          "choice_code": "321919110",
+          "vacancies_seats": "26*"
+        },
+        {
+          "name": "Computer Engineering",
+          "choice_code": "321924510",
+          "vacancies_seats": "7*"
+        },
+        {
+          "name": "Information Technology",
+          "choice_code": "321924610",
+          "vacancies_seats": "3*"
+        },
+        {
+          "name": "Electrical Engineering",
+          "choice_code": "321929310",
+          "vacancies_seats": "7*"
+        },
+        {
+          "name": "Electronics and Telecommunication Engineering",
+          "choice_code": "321937210",
+          "vacancies_seats": "5*"
+        },
+        {
+          "name": "Mechanical Engineering",
+          "choice_code": "321961210",
+          "vacancies_seats": "26*"
+        },
+        {
+          "name": "Computer Science & Engineering (Artificial Intelligence & Machine Learning)",
+          "choice_code": "321991110",
+          "vacancies_seats": "0*"
+        }
+      ],
+      "application_dates": {
+        "last_date_issue_application_forms": "13/09/2025",
+        "display_merit_list_notice_board_website": "14/09/2025",
+        "last_date_reporting_at_college_for_admission_with_full_fees": "15/09/2025"
+      },
+      "application_forms_fees": "B.E. : 1000/-",
+      "application_forms_available_from": "28/07/2025 at College & Head Office",
+      "contact_numbers": [
+        "8879648603",
+        "7507626210",
+        "8888476667",
+        "9049169962"
+      ],
+      "admission_rules_eligibility_criteria_link": "dtemaharashtra.gov.in/cetcell.mahacet.org/ cap-2025-26/ will be applicable.",
+      "note_vacant_seats": "Exact vacancies against CAP will be displayed on the college notice board/website www.armiet.in as per DTE/CET Cell admission procedure. Vacancies may vary due to cancellations if any",
+      "head_office_address": "111B/124 First Floor, Vardhman Industrial Estate, Gokul Nagar, Thane (W).",
+      "campus_address": "ARMIET, A.S. Rao Nagar, Shahapur"
+    },
+    {
+      "institute_name": "Alumni Ratnamala Institute of Engineering and Technology",
+      "affiliation": "KVCT's ARMIET",
+      "minority_status": "(A Hindi Linguistic Minority Institute)",
+      "run_by": "(Run by Koti Vidya Charitable Trust)",
+      "certification": "ISO 9001 : 2015 Certified Accredited by NAAC with B+ Grade",
+      "admission_notice_for_ay": "2025-2026",
+      "admission_types": [
+        {
+          "program_type": "First Year Engineering",
+          "dte_code": "DEN3219",
+          "branches": [
+            {
+              "name": "Civil Engineering",
+              "choice_code": "321919110",
+              "vacancies_seats": "52*"
+            },
+            {
+              "name": "Computer Engineering",
+              "choice_code": "321924510",
+              "vacancies_seats": "37*"
+            },
+            {
+              "name": "Information Technology",
+              "choice_code": "321924610",
+              "vacancies_seats": "31*"
+            },
+            {
+              "name": "Electrical Engineering",
+              "choice_code": "321929310",
+              "vacancies_seats": "50*"
+            },
+            {
+              "name": "Electronics and Telecommunication Engineering",
+              "choice_code": "321937210",
+              "vacancies_seats": "29*"
+            },
+            {
+              "name": "Mechanical Engineering",
+              "choice_code": "321961210",
+              "vacancies_seats": "28*"
+            },
+            {
+              "name": "Computer Science & Engineering (Artificial Intelligence & Machine Learning)",
+              "choice_code": "321991110",
+              "vacancies_seats": "11*"
+            }
+          ]
+        },
+        {
+          "program_type": "Master of Management Studies (M.M.S.)",
+          "dte_code": "MB3219",
+          "branches": [
+            {
+              "name": "Finance, Marketing, HR, Operations, IT",
+              "choice_code": "321910210",
+              "vacancies_seats": "13*"
+            }
+          ],
+          "application_dates": {
+            "last_date_of_issue_of_application_forms": "11/09/2025",
+            "display_of_merit_list_on_notice_board_website": "12/09/2025",
+            "last_date_of_reporting_at_college_for_admission_with_full_fees": "15/09/2025"
+          }
+        },
+        {
+          "program_type": "First Year Diploma in Engineering",
+          "dte_code": "DE3219",
+          "branches": [
+            {
+              "name": "Civil Engineering",
+              "choice_code": "321919110",
+              "vacancies_seats": "5*"
+            },
+            {
+              "name": "Electronics and Telecommunication Engineering",
+              "choice_code": "321937210",
+              "vacancies_seats": "11*"
+            },
+            {
+              "name": "Mechanical Engineering",
+              "choice_code": "321961210",
+              "vacancies_seats": "15*"
+            },
+            {
+              "name": "Mechatronics",
+              "choice_code": "321961810",
+              "vacancies_seats": "0*"
+            },
+            {
+              "name": "Artificial Intelligence and Machine Learning",
+              "choice_code": "321998810",
+              "vacancies_seats": "0*"
+            }
+          ]
+        }
+      ],
+      "common_application_details": {
+        "last_date_of_issue_of_application_forms": "13/09/2025",
+        "display_of_merit_list_on_notice_board_website": "14/09/2025",
+        "last_date_of_reporting_at_college_for_admission_with_full_fees": "15/09/2025",
+        "application_forms_available_from": "28/07/2025 at College & Head Office",
+        "application_fees": {
+          "b_e": "1000/-",
+          "mms_mba": "1500/-",
+          "diploma": "750/-"
+        },
+        "call_numbers": [
+          "8879648603",
+          "7507626210",
+          "8888476667",
+          "9049169962"
+        ],
+        "admission_rules_eligibility_criteria_link": "dtemaharashtra.gov.in/cetcell.mahacet.org/ cap-2025-26/ will be applicable.",
+        "note_vacant_seats": "Exact vacancies against CAP will be displayed on the college notice board/website www.armiet.in as per DTE/CET Cell admission procedure. Vacancies may vary due to cancellations if any.",
+        "head_office_address": "111B/124 First Floor, Vardhman Industrial Estate, Gokul Nagar, Thane (W).",
+        "campus_address": "ARMIET, A.S. Rao Nagar, Shahapur"
+      }
+    },
+    {
+      "institute_intake": {
+        "dte_code": "3219",
+        "university_code": "776",
+        "msbte_code": "1629",
+        "programs": [
+          {
+            "name": "Diploma in Engineering",
+            "total_intake": 240,
+            "branches": [
+              {
+                "name": "Artificial Intelligence (AI) & Machine Learning",
+                "sanctioned_intake": 60
+              },
+              {
+                "name": "Civil Engineering",
+                "sanctioned_intake": 60
+              },
+              {
+                "name": "Electronics and Tele-Communication Engineering",
+                "sanctioned_intake": 30
+              },
+              {
+                "name": "Mechanical Engineering",
+                "sanctioned_intake": 60
+              },
+              {
+                "name": "Mechatronics",
+                "sanctioned_intake": 30
+              }
+            ]
+          },
+          {
+            "name": "Bachelor of Engineering (B.E.)",
+            "total_intake": 420,
+            "branches": [
+              {
+                "name": "Civil Engineering",
+                "sanctioned_intake": 30
+              },
+              {
+                "name": "Computer Engineering",
+                "sanctioned_intake": 120
+              },
+              {
+                "name": "Computer Science and Engineering Artificial Intelligence & Machine Learning",
+                "sanctioned_intake": 90
+              },
+              {
+                "name": "Electrical Engineering",
+                "sanctioned_intake": 60
+              },
+              {
+                "name": "Electronics and Tele-Communication Engineering",
+                "sanctioned_intake": 30
+              },
+              {
+                "name": "Information Technology",
+                "sanctioned_intake": 60
+              },
+              {
+                "name": "Mechanical Engineering",
+                "sanctioned_intake": 30
+              }
+            ]
+          },
+          {
+            "name": "Master of Engineering (M.E.)",
+            "total_intake": 60,
+            "branches": [
+              {
+                "name": "Computer Engineering",
+                "sanctioned_intake": 18
+              },
+              {
+                "name": "Electronics and Tele-Communication Engineering",
+                "sanctioned_intake": 18
+              },
+              {
+                "name": "Mechanical Engineering (Energy System & Management)",
+                "sanctioned_intake": 24
+              }
+            ]
+          },
+          {
+            "name": "Master of Management Studies (M.M.S.)",
+            "total_intake": 120,
+            "branches": [
+              {
+                "name": "Finance",
+                "sanctioned_intake": null
+              },
+              {
+                "name": "Human Resources",
+                "sanctioned_intake": null
+              },
+              {
+                "name": "Systems",
+                "sanctioned_intake": null
+              },
+              {
+                "name": "Marketing",
+                "sanctioned_intake": null
+              },
+              {
+                "name": "Operations",
+                "sanctioned_intake": null
+              }
+            ]
+          }
+        ],
+        "total_institute_intake": 840
+      }
+    },
+    {
+      "details_type": "Canteen Menu",
+      "content": {
+        "canteen_name": "श्री समर्थ कृपा कॅन्टीन (Shree Samarth Krupa Canteen)/(College Canteen)",
+        "menu": [
+          { "item": "चहा (Tea)", "price": "१० रु. (10 Rs.)" },
+          { "item": "चहा स्पे. (Special Tea)", "price": "१२ रु. (12 Rs.)" },
+          { "item": "कॉफी (Coffee)", "price": "१० रु. (10 Rs.)" },
+          { "item": "दूध (Milk)", "price": "२० रु. (20 Rs.)" },
+          { "item": "कांदेपोह (Onion Poha)", "price": "२० रु. (20 Rs.)" },
+          { "item": "इडली सांबर (Idli Sambar)", "price": "२५ रु. (25 Rs.)" },
+          { "item": "मेंदुवडा सांबर (Medu Vada Sambar)", "price": "३० रु. (30 Rs.)" },
+          { "item": "उत्पन्ना (Utthappa)", "price": "२५ रु. (25 Rs.)" },
+          { "item": "मिसळ पाव (Misal Pav)", "price": "३० रु. (30 Rs.)" },
+          { "item": "वडा उसळ पाव (Vada Usal Pav)", "price": "३० रु. (30 Rs.)" },
+          { "item": "शेव पोहे (Shev Poha)", "price": "२५ रु. (25 Rs.)" },
+          { "item": "मिसळ पोहे (Misal Poha)", "price": "३० रु. (30 Rs.)" },
+          { "item": "रस्सा पोहे (Rassa Poha)", "price": "२५ रु. (25 Rs.)" },
+          { "item": "वडापाव प्लेट (Vadapaav Plate)", "price": "२४ रु. (24 Rs.)" },
+          { "item": "समोसा प्लेट (Samosa Plate)", "price": "२४ रु. (24 Rs.)" },
+          { "item": "पावभाजी प्लेट (Pavbhaji Plate)", "price": "३० रु. (30 Rs.)" },
+          { "item": "पॅटीस प्लेट (Patties Plate)", "price": "२४ रु. (24 Rs.)" },
+          { "item": "कांदाभजी प्लेट (Kandabhaji Plate)", "price": "३० रु. (30 Rs.)" },
+          { "item": "बटाटा भजी प्लेट (Batata Bhaji Plate)", "price": "३० रु. (30 Rs.)" },
+          { "item": "मूग भजी प्लेट (Moong Bhaji Plate)", "price": "३० रु. (30 Rs.)" },
+          { "item": "शिरा (Shira)", "price": "३० रु. (30 Rs.)" },
+          { "item": "साबुदाणा खिचडी (Sabudana Khichdi)", "price": "३० रु. (30 Rs.)" },
+          { "item": "साबुदाणा वडा प्लेट (Sabudana Vada Plate)", "price": "३० रु. (30 Rs.)" },
+          { "item": "रवळ ढोकळा प्लेट (Raval Dhokla Plate)", "price": "३० रु. (30 Rs.)" },
+          { "item": "दाल वडा प्लेट (Dal Vada Plate)", "price": "३० रु. (30 Rs.)" },
+          { "item": "राईस प्लेट (Rice Plate)", "price": "६० रु. (60 Rs.)" },
+          { "item": "पुरण भाजा (Puran Bhaji)", "price": "३५ रु. (35 Rs.)" },
+          { "item": "पूरी भाजा (Puri Bhaji)", "price": "३५ रु. (35 Rs.)" },
+          { "item": "चपाती भाजा (Chapati Bhaji)", "price": "४० रु. (40 Rs.)" },
+          { "item": "जिरा राईस (Jeera Rice)", "price": "३० रु. (30 Rs.)" },
+          { "item": "दाल तडका (Dal Tadka)", "price": "३० रु. (30 Rs.)" },
+          { "item": "भाजी प्लेट (Bhaji Plate)", "price": "२५ रु. (25 Rs.)" },
+          { "item": "दही वटी (Dahi Vati)", "price": "२५ रु. (25 Rs.)" },
+          { "item": "दाल वटी (Dal Vati)", "price": "२० रु. (20 Rs.)" },
+          { "item": "पापड नग (Papad Nag)", "price": "०५ रु. (05 Rs.)" },
+          { "item": "ताक (Taak)", "price": "१५ रु. (15 Rs.)" },
+          { "item": "बिसलेरी (Bisleri)", "price": "१५ रु. (15 Rs.)" },
+          { "item": "कोल्ड्रिंक्स सर्व (Cold Drinks All)", "price": "15-30 Rs." }
+        ]
+      }
+    },
+    {
+      "details_type": "Scholarship Documents",
+      "content": {
+        "title": "ATTACHEMENT DOCUMENTS WITH SCHOLARSHIP FORM (FRESH & RENEWAL STUDENT)",
+        "documents": [
+          "Scholarship form print out.",
+          "Cap letter (Admission confirmed acknowledgment receipt)",
+          "Ssc marksheet",
+          "Hsc marksheet",
+          "If ITI Marksheet",
+          "Diploma marksheet (All semester)",
+          "Diploma certificate",
+          "Graduation marksheet (All semester)",
+          "Degree certificate",
+          "Leaving certificate",
+          "Ration card",
+          "Income certificate (All category)",
+          "Domicile certificate (All category mandatory)",
+          "Caste certificate (SC/ST/OBC/SBC/VJNT)",
+          "NCL certificate (OBC/SBC/VJNT & SEBC)",
+          "Caste validity certificate (SC/ST/OBC/SBC/VJNT)",
+          "Bank passbook.",
+          "Fee receipt",
+          "Declaration (OBC/SBC/VJNT & EBC OPEN Category)",
+          "If Gap affidavit."
+        ]
+      }
+    },
+    {
+      "fee_refund_policy": [
+        {
+          "category": 1,
+          "percentage_of_refund": "100%",
+          "withdrawal_notice_time": "15 days or more before the formally notified last date of admission"
+        },
+        {
+          "category": 2,
+          "percentage_of_refund": "90%",
+          "withdrawal_notice_time": "Less than 15 days before the formally notified last date of admission"
+        },
+        {
+          "category": 3,
+          "percentage_of_refund": "80%",
+          "withdrawal_notice_time": "15 days or less after the formally notified last date of admission"
+        },
+        {
+          "category": 4,
+          "percentage_of_refund": "50%",
+          "withdrawal_notice_time": "30 days or less, but more than 15 days after formally notified last date of admission"
+        },
+        {
+          "category": 5,
+          "percentage_of_refund": "00%",
+          "withdrawal_notice_time": "More than 30 days after formally notified last date of admission"
+        }
+      ]
+    },
+    {
+      "documents_required_for_admission": [
+        {
+          "sr_no": 1,
+          "document_name": "8th Marksheet",
+          "diploma": false,
+          "dsdiploma": false,
+          "f.e.": false,
+          "d.s.e.": false,
+          "m.e.": false,
+          "mms": false
+        },
+        {
+          "sr_no": 2,
+          "document_name": "9th Marksheet",
+          "diploma": true,
+          "dsdiploma": false,
+          "f.e.": false,
+          "d.s.e.": false,
+          "m.e.": false,
+          "mms": false
+        },
+        {
+          "sr_no": 3,
+          "document_name": "S.S.C Marksheet",
+          "diploma": true,
+          "dsdiploma": true,
+          "f.e.": true,
+          "d.s.e.": true,
+          "m.e.": true,
+          "mms": true
+        },
+        {
+          "sr_no": 4,
+          "document_name": "S.S.C. Board Certificate",
+          "diploma": true,
+          "dsdiploma": true,
+          "f.e.": true,
+          "d.s.e.": true,
+          "m.e.": true,
+          "mms": true
+        },
+        {
+          "sr_no": 5,
+          "document_name": "H.S.C Marksheet",
+          "diploma": false,
+          "dsdiploma": false,
+          "f.e.": true,
+          "d.s.e.": false,
+          "m.e.": true,
+          "mms": true
+        },
+        {
+          "sr_no": 6,
+          "document_name": "H.S.C. Board Certificate",
+          "diploma": false,
+          "dsdiploma": false,
+          "f.e.": true,
+          "d.s.e.": false,
+          "m.e.": true,
+          "mms": true
+        },
+        {
+          "sr_no": 7,
+          "document_name": "Diploma- 1st Year Marksheet",
+          "diploma": false,
+          "dsdiploma": true,
+          "f.e.": false,
+          "d.s.e.": true,
+          "m.e.": false,
+          "mms": false
+        },
+        {
+          "sr_no": 8,
+          "document_name": "Diploma- 2nd Year Marksheet",
+          "diploma": false,
+          "dsdiploma": true,
+          "f.e.": false,
+          "d.s.e.": true,
+          "m.e.": false,
+          "mms": false
+        },
+        {
+          "sr_no": 9,
+          "document_name": "Diploma- 3rd Year Marksheet",
+          "diploma": false,
+          "dsdiploma": true,
+          "f.e.": false,
+          "d.s.e.": true,
+          "m.e.": false,
+          "mms": false
+        },
+        {
+          "sr_no": 10,
+          "document_name": "Degree- 1st Year Marksheet",
+          "diploma": false,
+          "dsdiploma": false,
+          "f.e.": false,
+          "d.s.e.": false,
+          "m.e.": true,
+          "mms": true
+        },
+        {
+          "sr_no": 11,
+          "document_name": "Degree- 2nd Year Marksheet",
+          "diploma": false,
+          "dsdiploma": false,
+          "f.e.": false,
+          "d.s.e.": false,
+          "m.e.": true,
+          "mms": true
+        },
+        {
+          "sr_no": 12,
+          "document_name": "Degree- 3rd Year Marksheet",
+          "diploma": false,
+          "dsdiploma": false,
+          "f.e.": false,
+          "d.s.e.": false,
+          "m.e.": true,
+          "mms": true
+        },
+        {
+          "sr_no": 13,
+          "document_name": "Provisional Degree / Diploma Certificate",
+          "diploma": false,
+          "dsdiploma": true,
+          "f.e.": false,
+          "d.s.e.": true,
+          "m.e.": true,
+          "mms": true
+        },
+        {
+          "sr_no": 14,
+          "document_name": "Convocation Degree/ Diploma Certificate",
+          "diploma": false,
+          "dsdiploma": false,
+          "f.e.": false,
+          "d.s.e.": false,
+          "m.e.": true,
+          "mms": true
+        },
+        {
+          "sr_no": 15,
+          "document_name": "JEE / CET Score Card",
+          "diploma": false,
+          "dsdiploma": false,
+          "f.e.": true,
+          "d.s.e.": false,
+          "m.e.": false,
+          "mms": false
+        },
+        {
+          "sr_no": 16,
+          "document_name": "GATE Score Card",
+          "diploma": false,
+          "dsdiploma": false,
+          "f.e.": false,
+          "d.s.e.": false,
+          "m.e.": true,
+          "mms": false
+        },
+        {
+          "sr_no": 17,
+          "document_name": "Original CMAT/ CET / ATMA Score card",
+          "diploma": false,
+          "dsdiploma": false,
+          "f.e.": false,
+          "d.s.e.": false,
+          "m.e.": false,
+          "mms": true
+        },
+        {
+          "sr_no": 18,
+          "document_name": "Passport size colour photograph (10 Nos)",
+          "diploma": true,
+          "dsdiploma": true,
+          "f.e.": true,
+          "d.s.e.": true,
+          "m.e.": true,
+          "mms": true
+        },
+        {
+          "sr_no": 19,
+          "document_name": "Sponsorship Letter",
+          "diploma": false,
+          "dsdiploma": false,
+          "f.e.": false,
+          "d.s.e.": false,
+          "m.e.": true,
+          "mms": true
+        },
+        {
+          "sr_no": 20,
+          "document_name": "Transfer Certificate / Leaving Certificate",
+          "diploma": true,
+          "dsdiploma": true,
+          "f.e.": true,
+          "d.s.e.": true,
+          "m.e.": true,
+          "mms": true
+        },
+        {
+          "sr_no": 21,
+          "document_name": "Domicile & Nationality Certificate",
+          "diploma": true,
+          "dsdiploma": true,
+          "f.e.": true,
+          "d.s.e.": true,
+          "m.e.": true,
+          "mms": true
+        },
+        {
+          "sr_no": 22,
+          "document_name": "For Central Government employee Affidavit",
+          "diploma": true,
+          "dsdiploma": true,
+          "f.e.": true,
+          "d.s.e.": true,
+          "m.e.": true,
+          "mms": true
+        },
+        {
+          "sr_no": 23,
+          "document_name": "Migration Cert. (other University Candidate)",
+          "diploma": true,
+          "dsdiploma": true,
+          "f.e.": true,
+          "d.s.e.": true,
+          "m.e.": true,
+          "mms": true
+        },
+        {
+          "sr_no": 24,
+          "document_name": "Gap Certificate (if applicable)",
+          "diploma": true,
+          "dsdiploma": true,
+          "f.e.": true,
+          "d.s.e.": true,
+          "m.e.": true,
+          "mms": true
+        },
+        {
+          "sr_no": 25,
+          "document_name": "Caste Certificate (if applicable)",
+          "diploma": true,
+          "dsdiploma": true,
+          "f.e.": true,
+          "d.s.e.": true,
+          "m.e.": true,
+          "mms": true
+        },
+        {
+          "sr_no": 26,
+          "document_name": "Caste Validity Certificate (if applicable)",
+          "diploma": true,
+          "dsdiploma": true,
+          "f.e.": true,
+          "d.s.e.": true,
+          "m.e.": true,
+          "mms": true
+        },
+        {
+          "sr_no": 27,
+          "document_name": "Non Creamy layer Certificate (if applicable)",
+          "diploma": true,
+          "dsdiploma": true,
+          "f.e.": true,
+          "d.s.e.": true,
+          "m.e.": true,
+          "mms": true
+        },
+        {
+          "sr_no": 28,
+          "document_name": "Proof of change in Name / Surname (if applicable)",
+          "diploma": true,
+          "dsdiploma": true,
+          "f.e.": true,
+          "d.s.e.": true,
+          "m.e.": true,
+          "mms": true
+        },
+        {
+          "sr_no": 29,
+          "document_name": "Medical Fitness Certificate",
+          "diploma": true,
+          "dsdiploma": true,
+          "f.e.": true,
+          "d.s.e.": true,
+          "m.e.": true,
+          "mms": true
+        },
+        {
+          "sr_no": 30,
+          "document_name": "Affidavit for Minority seats (if applicable)",
+          "diploma": true,
+          "dsdiploma": true,
+          "f.e.": true,
+          "d.s.e.": true,
+          "m.e.": true,
+          "mms": true
+        },
+        {
+          "sr_no": 31,
+          "document_name": "Affidavit for Seeking Open seats (if applicable)",
+          "diploma": true,
+          "dsdiploma": true,
+          "f.e.": true,
+          "d.s.e.": true,
+          "m.e.": true,
+          "mms": true
+        },
+        {
+          "sr_no": 32,
+          "document_name": "Conversion if Grade point of Percentage (if applicable) form University/Board/Institute",
+          "diploma": false,
+          "dsdiploma": false,
+          "f.e.": false,
+          "d.s.e.": false,
+          "m.e.": true,
+          "mms": true
+        },
+        {
+          "sr_no": 33,
+          "document_name": "Anti ragging Affidavit",
+          "diploma": true,
+          "dsdiploma": true,
+          "f.e.": true,
+          "d.s.e.": true,
+          "m.e.": true,
+          "mms": true
+        }
+      ]
+    },
+    {
+      "placement_information": {
+        "institute_name": "ARMIET",
+        "dte_code": "3219",
+        "placements_year": 2020,
+        "employers_count": 64,
+        "top_recruiters_by_department": {
+          "computer_it_extc_engineering": [
+            "Infosys",
+            "Wipro",
+            "Accenture",
+            "Capgemini",
+            "Justdial",
+            "Tata",
+            "Oracle",
+            "Jio",
+            "Byju's",
+            "WhiteHatJr",
+            "Qspiders",
+            "IDBI Intech"
+          ],
+          "extc_electrical_mechanics_civil_engineering": [
+            "Mahindra CIE",
+            "Randstad",
+            "RSB Transmission",
+            "Bluestar",
+            "ACE Furnace Pvt Ltd",
+            "Bioline",
+            "Qspiders",
+            "Dhoot Transmission",
+            "Flash Electronics",
+            "ZF Steering",
+            "Eagle Infrastructure",
+            "Pin Click Pvt Ltd"
+          ]
+        },
+        "all_recruiters": [
+          "SE - Shire Pro",
+          "Flipkart",
+          "TCS (Tata Consultancy Services)",
+          "AIS (Asahi India Glass Ltd.)",
+          "IDBI Intech",
+          "Libra Valuers Pvt. Ltd.",
+          "Dhoot Transmissions",
+          "Bajaj Finserv",
+          "Jaguar",
+          "Hyundai",
+          "Sankalp Semiconductor",
+          "RMD Kwikform",
+          "Altrad",
+          "Ashok Leyland",
+          "G.I.T. Foundation",
+          "Emphasys E Scan",
+          "Qspiders",
+          "Indiamart",
+          "Bhumi",
+          "seed beyond the obvious",
+          "RRPLAST",
+          "Systemics",
+          "Edureka!",
+          "HDFC Home Loans",
+          "KampHire",
+          "Mahindra",
+          "Excelr",
+          "Amazon Services",
+          "Worldline",
+          "Barclays",
+          "Dezignolics",
+          "Cirkit",
+          "Osource",
+          "Prakhyyat Partners In Progress",
+          "Nirmal CD",
+          "Yashaswi",
+          "Vistaar",
+          "AMI Constructions",
+          "Viva Honda",
+          "Ashida",
+          "Coffeee.a",
+          "Pentagon Office",
+          "Inteva Products",
+          "Rubicon Foundation",
+          "Rubicon",
+          "NASSCOM Foundation"
+        ],
+        "website": "www.armiet.in"
+      }
+    }
+  ]
+}
